@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/Looking%20For%20Collaboration%20-%20Yes-green.svg" alt="Collaboration" />
       </a>
       <img src="https://img.shields.io/badge/maintainer-Clement-blue" alt="Maintainer">
-      <a href="https://linkedin.com/in/clementcheong">
+      <a href="https://linkedin.com/in/clement1221">
         <img src="https://img.shields.io/badge/LinkedIn-Clement-blue" alt="LinkedIn">
       </a>
     </div>
