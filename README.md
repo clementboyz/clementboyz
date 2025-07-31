@@ -41,7 +41,7 @@
   <!-- Little Logo -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <div style="display: flex; justify-content: center; gap: 10px;">
-      <a href="https://GitHub.com/ClementCheong">
+      <a href="https://GitHub.com/clementboyz">
         <img src="https://img.shields.io/badge/Looking%20For%20Collaboration%20-%20Yes-green.svg" alt="Collaboration" />
       </a>
       <img src="https://img.shields.io/badge/maintainer-Clement-blue" alt="Maintainer">
