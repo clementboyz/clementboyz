@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**clementboyz/clementboyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Knock Code Pictures -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
-Here are some ideas to get you started:
+  <!-- for beauty -->
+  <div>&nbsp;</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Dynamic Emojis -->
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="50" height="50" />  
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+  </div>
+
+  <!-- Welcome words -->
+  <h1 style="color: #FFA500;">Welcome to Clement's GitHub! 👨‍💻</h1>
+
+  <!-- World Peaceful words -->
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+Cool+Things+One+Line+At+A+Time!)
+
+  <!-- Moon Emoji -->
+  [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=148)](https://moon-svg.minung.dev)
+
+  <!-- Dynamic Skills Logo -->
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  </div>
+
+  <!-- Little Logo -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <a href="https://GitHub.com/ClementCheong">
+        <img src="https://img.shields.io/badge/Looking%20For%20Collaboration%20-%20Yes-green.svg" alt="Collaboration" />
+      </a>
+      <img src="https://img.shields.io/badge/maintainer-Clement-blue" alt="Maintainer">
+      <a href="https://linkedin.com/in/clementcheong">
+        <img src="https://img.shields.io/badge/LinkedIn-Clement-blue" alt="LinkedIn">
+      </a>
+    </div>
+  </div>
+
+  <!-- Motto -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building+Tech+For+Tomorrow.&author=Clement" />
+
+  <!-- Skills Emoji -->
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,typescript,react,docker,postgresql,github,git&theme=dark&perline=7)](https://skillicons.dev)
+
+  <!-- Stats Card -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementCheong&show_icons=true&theme=radical)
+
+  <!-- GitHub Activity Graph -->
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=ClementCheong&theme=tokyo-night" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ClementCheong&theme=xcode" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClementCheong&theme=tokyo-night" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+
+  <!-- 3D Contribution -->
+  ![GitHub 3D Contribution](https://raw.githubusercontent.com/ClementCheong/ClementCheong/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
