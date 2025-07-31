@@ -57,23 +57,3 @@
   <!-- Skills Emoji -->
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,typescript,react,docker,postgresql,github,git&theme=dark&perline=7)](https://skillicons.dev)
 
-  <!-- Stats Card -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementCheong&show_icons=true&theme=radical)
-
-  <!-- GitHub Activity Graph -->
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=ClementCheong&theme=tokyo-night" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ClementCheong&theme=xcode" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClementCheong&theme=tokyo-night" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-
-  <!-- 3D Contribution -->
-  ![GitHub 3D Contribution](https://raw.githubusercontent.com/ClementCheong/ClementCheong/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
